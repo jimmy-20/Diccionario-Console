@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraductorConsole", "TraductorConsole\TraductorConsole.csproj", "{05DD5F7A-0A71-4113-927A-3F6D14D8364C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05DD5F7A-0A71-4113-927A-3F6D14D8364C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DD5F7A-0A71-4113-927A-3F6D14D8364C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DD5F7A-0A71-4113-927A-3F6D14D8364C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DD5F7A-0A71-4113-927A-3F6D14D8364C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4712D2C-60F3-4870-A883-FE9AE6CB8CD7}
+	EndGlobalSection
+EndGlobal
